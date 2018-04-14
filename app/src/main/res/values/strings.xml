@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjetoInicial</string>
+    <string name="nome">Nome:</string>
+    <string name="digite">nome</string>
+    <string name="radioEmpregado">Empregado</string>
+    <string name="radioDesempregado">Desempregado</string>
+    <string name="radioOcupacao">Não procura ocupação</string>
+    <string name="btnDica">Dica</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="ajuda">Ajuda</string>
+</resources>
