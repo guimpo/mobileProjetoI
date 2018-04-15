@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firstProject</string>
+    <string name="ajuda">Help</string>
+    <string name="title_activity_ajuda">Help</string>
+    <string name="radioDesempregado">Unemployed</string>
+    <string name="btnDica">Hint</string>
+    <string name="radioEmpregado">Employed</string>
+    <string name="btnLimpar">Clear</string>
+    <string name="radioOcupacao">It is not looking for a job</string>
+    <string name="digite">name</string>
+    <string name="nome">Name:</string>
+    <string name="ajudaTexto" translatable="false">Name: Paulo Ricardo Kenshun Nakaima\nRA: 1706373\nCourse: Software Engineering</string>
+    <string name="voltar">back</string>
+    <string name="msgDica1">"Congratulation "</string>
+    <string name="msgDica2">"Don't worry "</string>
+    <string name="msgDica3">"That's life "</string>
+</resources>

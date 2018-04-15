@@ -30,6 +30,10 @@ public class Cadastro extends AppCompatActivity {
         rdGroup.clearCheck();
     }
 
+    public void chamaDica(View view) {
+        chamaTela(Dica.class);
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu){
         getMenuInflater().inflate(R.menu.ajuda, menu);
@@ -41,15 +45,15 @@ public class Cadastro extends AppCompatActivity {
         // Handle item selection
         switch (item.getItemId()) {
             case R.id.menu:
-                chamaAjuda();
+                chamaTela(Ajuda.class);
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
     }
 
-    private void chamaAjuda() {
-        Intent intent = new Intent(this, Ajuda.class);
+    private void chamaTela(Class<?> classe) {
+        Intent intent = new Intent(this, classe);
         intent.putExtra("nome", etxNome.getText().toString());
         intent.putExtra("situacao", rdGroup.getCheckedRadioButtonId());
         startActivityForResult(intent, DADOS_USUARIO);

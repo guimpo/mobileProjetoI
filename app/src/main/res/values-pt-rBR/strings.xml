@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjetoInicial</string>
+    <string name="ajuda">Ajuda</string>
+    <string name="title_activity_ajuda">Ajuda</string>
+    <string name="radioDesempregado">Desempregado</string>
+    <string name="btnDica">Dica</string>
+    <string name="radioEmpregado">Empregado</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="radioOcupacao">Não procura ocupação</string>
+    <string name="digite">nome</string>
+    <string name="nome">Nome:</string>
+    <string name="ajudaTexto">Nome: Paulo Ricardo Kenshun Nakaima\nRA: 1706373\nCurso: Engenharia de Software</string>
+    <string name="voltar">voltar</string>
+    <string name="msgDica1">"Parabéns "</string>
+    <string name="msgDica2">"Não se preocupe "</string>
+    <string name="msgDica3">"Que vida boa "</string>
+</resources>

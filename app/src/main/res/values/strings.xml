@@ -8,8 +8,11 @@
     <string name="btnDica">Dica</string>
     <string name="btnLimpar">Limpar</string>
     <string name="ajuda">Ajuda</string>
-    <string name="yohoho">yohoho</string>
     <string name="title_activity_ajuda">Ajuda</string>
     <string name="voltar">voltar</string>
     <string name="ajudaTexto">Nome: Paulo Ricardo Kenshun Nakaima\nRA: 1706373\nCurso: Engenharia de Software</string>
+    <string name="yohoho" translatable="false">yohoho</string>
+    <string name="msgDica1">Parabéns</string>
+    <string name="msgDica2">Não se preocupe</string>
+    <string name="msgDica3">Que vida boa</string>
 </resources>
